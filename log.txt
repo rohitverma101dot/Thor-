@@ -1,0 +1,18 @@
+UserID: 2128531830 | Time: 2024-09-22 17:58:30.386195 | Command: /bgmi | Target: 20.204.177.22 | Port: 18596 | Time: 600
+Username: @THOR_999
+Target: 20.204.177.22
+Port: 18596
+Time: 600
+
+UserID: 2128531830 | Time: 2024-09-22 18:23:48.736762 | Command: /bgmi | Target: 20.219.163.85 | Port: 14167 | Time: 600
+Username: @THOR_999
+Target: 20.219.163.85
+Port: 14167
+Time: 600
+
+UserID: 2128531830 | Time: 2024-09-22 20:15:55.162208 | Command: /bgmi | Target: 4.213.68.229 | Port: 26833 | Time: 600
+Username: @THOR_999
+Target: 4.213.68.229
+Port: 26833
+Time: 600
+
